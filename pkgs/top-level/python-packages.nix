@@ -7420,6 +7420,8 @@ in {
 
   topydo = throw "python3Packages.topydo was moved to topydo"; # 2017-09-22
 
+  torch-stft = callPackage ../development/python-modules/torch-stft { };
+
   torchgpipe = callPackage ../development/python-modules/torchgpipe { };
 
   torchvision = callPackage ../development/python-modules/torchvision { };
