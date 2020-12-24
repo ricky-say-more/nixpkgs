@@ -7495,6 +7495,12 @@
     githubId = 42619;
     name = "Wei-Ming Yang";
   };
+  ricky_s = {
+    email = "ricky.say.more@gmail.com";
+    github = "ricky-say-more";
+    githubId = 76404135;
+    name = "Ricky S";
+  };
   rickynils = {
     email = "rickynils@gmail.com";
     github = "rickynils";
